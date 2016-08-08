@@ -62,7 +62,7 @@ void date_map_index_to_year_month(SDate* to,int startYear,int idx)
     
     to->year = startYear + idx / 12;
     to->month = idx % 12 + 1;
-    to->day = -1;
+    to->day = 1;
 }
 
 int date_get_days(const SDate* date)
