@@ -535,15 +535,16 @@ int calendar_get_hitted_day_cell_index(const SCalendar* calendar, CGPoint localP
     [string drawAtPoint:pos withAttributes:attsDict];
 }
 
+- (void)setYearMonth:(int)year month:(int)month {
+  calendar_set_year_month(&_calendar, year, month);
 
--(void) setYearMonth:(int)year month:(int)month
-{
-    calendar_set_year_month(&_calendar, year, month);
-    
-    _lastMonthDayCount = date_get_month_of_day(_calendar.date.year,_calendar.date.month);
-    [self setNeedsDisplay];
+  if (_calendar.date.month > 1) {
+    _lastMonthDayCount = date_get_month_of_day(_calendar.date.year, _calendar.date.month - 1);
+  } else {
+    _lastMonthDayCount = date_get_month_of_day(_calendar.date.year - 1, 12);
+  }
+  [self setNeedsDisplay];
 }
-
 
 -(void) drawYearMonthStr : (NSString*) string rect:(CGRect) rect
 {
