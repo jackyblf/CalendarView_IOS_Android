@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="CalendarView">
+        <attr name="currentYear" format="integer" />
+        <attr name="currentMonth" format="integer" />
+    </declare-styleable>
+</resources>
