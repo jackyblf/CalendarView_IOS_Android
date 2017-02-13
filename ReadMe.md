@@ -1,6 +1,8 @@
-[ÓÃc/c++»ìºÏ±à³Ì·½Ê½Îªios/androidÊµÏÖÒ»¸ö×Ô»æÈÕÆÚÑ¡Ôñ¿Ø¼ş(Ò») c/c++](http://www.jianshu.com/p/52e426f6b3b3)
+![å±•ç¤ºå›¾](https://github.com/jackyblf/CalendarView_IOS_Android/blob/master/calendarView.jpg)
 
-[ÓÃc/c++»ìºÏ±à³Ì·½Ê½Îªios/androidÊµÏÖÒ»¸ö×Ô»æÈÕÆÚÑ¡Ôñ¿Ø¼ş(¶ş) ios/objc](http://www.jianshu.com/p/e66d6976fc2d)
+[ç”¨c/c++æ··åˆç¼–ç¨‹æ–¹å¼ä¸ºios/androidå®ç°ä¸€ä¸ªè‡ªç»˜æ—¥æœŸé€‰æ‹©æ§ä»¶(ä¸€) c/c++](http://www.jianshu.com/p/52e426f6b3b3)
 
-[ÓÃc/c++»ìºÏ±à³Ì·½Ê½Îªios/androidÊµÏÖÒ»¸ö×Ô»æÈÕÆÚÑ¡Ôñ¿Ø¼ş(Èı) android/swig/java](http://www.jianshu.com/p/bdfe8dc57019)
+[ç”¨c/c++æ··åˆç¼–ç¨‹æ–¹å¼ä¸ºios/androidå®ç°ä¸€ä¸ªè‡ªç»˜æ—¥æœŸé€‰æ‹©æ§ä»¶(äºŒ) ios/objc](http://www.jianshu.com/p/e66d6976fc2d)
+
+[ç”¨c/c++æ··åˆç¼–ç¨‹æ–¹å¼ä¸ºios/androidå®ç°ä¸€ä¸ªè‡ªç»˜æ—¥æœŸé€‰æ‹©æ§ä»¶(ä¸‰) android/swig/java](http://www.jianshu.com/p/bdfe8dc57019)
 
